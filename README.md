@@ -10,6 +10,8 @@ A React Native bridge module: Document Viewer for files (pdf, png, jpg, xls, doc
 #### 2018 Roadmap
 - Android file without external Application
 - Windows Phone Support
+#### 2022 Roadmap
+- Fix all error update for new version react-native
 
 #### IMPORTANT INFORMATION: THIS IS A OPEN SOURCE PROJECT, SOMETIMES I HAVE NO TIME TO DEVELOP THIS PROJECT. THANK YOU FOR YOUR PULL REQUEST AND YOUR SUPPORT. I will continue to develop it as it is possible in time.
 
@@ -19,6 +21,7 @@ A React Native bridge module: Document Viewer for files (pdf, png, jpg, xls, doc
 Changelog:
 
 ```
+3.0.0 -   Fix all error for react-native version 0.60+ please run react-native link react-native-doc-viewer-newest , and fix can't open android 11+ , and fix Activity not found to handle ....
 2.7.8 -   XLS Exmaple Local File IOS 97-2003
 2.7.7 -   "react": "^16.3.0-alpha.1","react-native": "0.54.3"
 2.7.5 -   Pull Request local file from LeMinh1995 + Pull Request podspec Form Linh1987
