@@ -11,7 +11,7 @@ A React Native bridge module: Document Viewer for files (pdf, png, jpg, xls, doc
 - Android file without external Application
 - Windows Phone Support
 #### 2022 Roadmap
-- Fix all error in android 11+ and ios 15+ , it can open all doc
+- Fix all error in android 11+ and ios 15+ , it fix all error from vertion 2.7.8
 
 #### IMPORTANT INFORMATION: THIS IS A OPEN SOURCE PROJECT, SOMETIMES I HAVE NO TIME TO DEVELOP THIS PROJECT. THANK YOU FOR YOUR PULL REQUEST AND YOUR SUPPORT. I will continue to develop it as it is possible in time.
 
