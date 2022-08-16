@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:1:70-96
+		INJECTED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:2:2-12:19
+provider#com.reactlibrary.FileProviderClass
+ADDED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:3:7-11:20
+	android:grantUriPermissions
+		ADDED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:7:13-47
+	android:authorities
+		ADDED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:5:13-70
+	android:exported
+		ADDED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:6:13-37
+	android:name
+		ADDED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:4:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:8:13-10:53
+	android:resource
+		ADDED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:10:17-50
+	android:name
+		ADDED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:9:17-67
+uses-permission#android.permission.INTERNET
+ADDED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:14:22-76
+uses-sdk
+INJECTED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml
+INJECTED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml
+INJECTED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml
+INJECTED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml
+		ADDED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml
+		ADDED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml

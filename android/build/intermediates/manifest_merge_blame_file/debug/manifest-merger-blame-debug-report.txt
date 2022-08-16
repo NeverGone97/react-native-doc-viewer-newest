@@ -1,0 +1,39 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.reactlibrary" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="16"
+6-->/Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="22" />
+7-->/Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.INTERNET" />
+9-->/Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:13:5-67
+9-->/Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:13:22-64
+10    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+10-->/Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:14:5-79
+10-->/Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:14:22-76
+11
+12    <application>
+12-->/Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:2:2-12:19
+13        <provider
+13-->/Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:3:7-11:20
+14            android:name="com.reactlibrary.FileProviderClass"
+14-->/Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:4:13-62
+15            android:authorities="${applicationId}.docViewer_provider"
+15-->/Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:5:13-70
+16            android:exported="false"
+16-->/Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:6:13-37
+17            android:grantUriPermissions="true" >
+17-->/Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:7:13-47
+18            <meta-data
+18-->/Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:8:13-10:53
+19                android:name="android.support.FILE_PROVIDER_PATHS"
+19-->/Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:9:17-67
+20                android:resource="@xml/filepaths" />
+20-->/Users/taiphung/Documents/GitHub/BIC-Online/node_modules/react-native-doc-viewer/android/src/main/AndroidManifest.xml:10:17-50
+21        </provider>
+22    </application>
+23
+24</manifest>
